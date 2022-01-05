@@ -51,6 +51,10 @@ body {
   background-color: #3d6cb9;
 }
 
+.page-item{
+  padding: 0;
+}
+
 .dropdown-image{
   width: 30px;
   height: 30px;
@@ -58,6 +62,11 @@ body {
 
 .list-group-item{
   border: none;
+}
+
+.dt-bootstrap5{
+  padding: 15px;
+  background-color: white;
 }
 
 .list-group-item svg{

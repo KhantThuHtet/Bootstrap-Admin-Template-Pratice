@@ -9,3 +9,7 @@ hamburgerMenu.addEventListener("click", () => {
 closeMenu.addEventListener("click", () => {
   sidebar.style.left = "-100%";
 });
+
+$(document).ready(function () {
+  $("#example").DataTable();
+});
